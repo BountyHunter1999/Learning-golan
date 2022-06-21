@@ -17,7 +17,7 @@ type circle struct {
 }
 
 type rect struct {
-	width float32
+	width  float32
 	height float32
 }
 
